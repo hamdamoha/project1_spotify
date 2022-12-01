@@ -1,0 +1,51 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Harry Styles,Harry's House,As It Was,4Dvkj6JhhA12EX05fT7y2e,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4
+1,Glass Animals,Dreamland (+ Bonus Levels),Heat Waves,02MWAaffLxlfxAUY7c5dvx,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4
+2,Dave,Starlight,Starlight,531KGXtBroSrOX9LVmiIgc,0.954,0.367,4,-9.551,0,0.288,5.48e-06,0.0979,0.372,124.026,211935,4
+3,Kate Bush,Hounds of Love (2018 Remaster),Running Up That Hill (A Deal With God) - 2018 Remaster,29d0nY7TzCoi22XBqDQkiP,0.625,0.533,10,-11.903,0,0.0596,0.00266,0.0546,0.139,108.296,300840,4
+4,Lost Frequencies,Where Are You Now,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,0.671,0.636,6,-8.117,0,0.103,0.000411,0.172,0.262,120.966,148197,4
+5,Sam Fender,Seventeen Going Under (Deluxe),Seventeen Going Under,5rF6YUIlgiat22OT1lWspJ,0.48,0.87,1,-4.792,1,0.0362,0.00603,0.0826,0.584,161.953,297933,4
+6,LF SYSTEM,Afraid To Feel,Afraid To Feel,40SBS57su9xLiE1WqkXOVr,0.578,0.912,1,-3.929,1,0.114,0.00362,0.273,0.68,127.87,177525,4
+7,Ed Sheeran,=,Shivers,50nfwKoDiSYg8zOCREWAm5,0.788,0.859,2,-2.724,1,0.0856,0,0.0424,0.822,141.02,207853,4
+8,Ed Sheeran,=,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,0.807,0.893,11,-3.745,0,0.0347,2.79e-05,0.366,0.537,126.011,230747,4
+9,Aitch,Close To Home,Baby (feat. Ashanti),4wHkV6OpCanrNg2PRNhWjM,0.752,0.813,4,-8.069,0,0.237,0,0.163,0.559,103.836,177733,4
+10,Fireboy DML,Playboy,Peru,4vb777iaycnlFxVkJMmtfd,0.956,0.417,7,-7.892,0,0.0926,0.00071,0.0782,0.714,108.015,187111,4
+11,Jack Harlow,Come Home The Kids Miss You,First Class,0wHFktze2PHC5jDt3B17DC,0.902,0.582,5,-5.902,0,0.109,3.18e-06,0.111,0.332,107.005,173948,4
+12,Elton John,The Lockdown Sessions,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,0.795,0.8,1,-6.32,1,0.0309,7.25e-05,0.0915,0.934,116.032,202735,4
+13,The Killers,Hot Fuss,Mr. Brightside,003vvx7Niy0yvhvHt4a68B,0.352,0.911,1,-5.23,1,0.0747,0,0.0995,0.236,148.033,222973,4
+14,Luude,Down Under (feat. Colin Hay),Down Under (feat. Colin Hay),7AVyve7cFYTd51ha5i9kE2,0.308,0.861,11,-4.112,0,0.172,0.00103,0.277,0.0386,171.966,158774,4
+15,Lin-Manuel Miranda,Encanto (Original Motion Picture Soundtrack),We Don't Talk About Bruno,52xJxFP6TqMuO4Yt0eOkMz,0.577,0.45,0,-8.516,0,0.0834,0,0.111,0.83,205.863,216120,4
+16,Lizzo,Special,About Damn Time,6HMtHNpW6YPi1hrw9tgF8P,0.836,0.743,10,-6.305,0,0.0653,0,0.335,0.723,108.965,191938,4
+17,D-Block Europe,Home Alone 2,Overseas,337kcYVjYXdLBItCw9ry3b,0.838,0.623,8,-7.524,0,0.354,0,0.307,0.811,135.935,222155,4
+18,Belters Only,Make Me Feel Good,Make Me Feel Good,4CUX44NA1CPEzd0ibMLQsL,0.773,0.74,7,-8.169,0,0.0386,0.00183,0.0829,0.504,124.014,197473,4
+19,The Kid LAROI,F*CK LOVE 3: OVER YOU,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,0.591,0.764,1,-5.484,1,0.0483,0,0.103,0.478,169.928,141806,4
+20,Adele,30,Easy On Me,46IZ0fSY2mpAiktS3KOqds,0.604,0.366,5,-7.519,1,0.0282,0,0.133,0.13,141.981,224695,4
+21,Jax Jones,Where Did You Go (feat. MNEK),Where Did You Go? (feat. MNEK),3sa06xVNmLLYIxdNNmVQN8,0.763,0.782,7,-4.541,0,0.0346,7.08e-06,0.293,0.502,127.034,177689,4
+22,Tom Odell,Long Way Down (Deluxe),Another Love,3JvKfv6T31zO0ini8iNItO,0.445,0.537,4,-8.532,0,0.04,1.65e-05,0.0944,0.131,122.769,244360,4
+23,OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",I Ain't Worried,4h9wh7iOZ0GGn8QVp4RAOB,0.704,0.797,0,-5.927,1,0.0475,0.000745,0.0546,0.825,139.994,148486,4
+24,Arctic Monkeys,Favourite Worst Nightmare (Standard Version),505,58ge6dfP91o9oXMzq3XkIS,0.52,0.852,0,-5.866,1,0.0543,5.79e-05,0.0733,0.234,140.267,253587,4
+25,Olivia Rodrigo,SOUR,good 4 u,4ZtFanR9U6ndgddUvNcjcG,0.563,0.664,9,-5.044,1,0.154,0,0.0849,0.688,166.928,178147,4
+26,Harry Styles,Harry's House,Late Night Talking,1qEmFfgcLObUfQm0j1W2CK,0.714,0.728,10,-4.595,1,0.0468,0,0.106,0.901,114.996,177955,4
+27,Future,I NEVER LIKED YOU,WAIT FOR U (feat. Drake & Tems),59nOXPmaKlBfGMDeOVGrIK,0.463,0.642,1,-4.474,1,0.34,0,0.0686,0.339,83.389,189893,4
+28,Burna Boy,"Love, Damini",Last Last,5YbPxJwPfrj7uswNwoF1pJ,0.795,0.565,3,-4.457,0,0.0948,0,0.0802,0.55,87.925,172342,4
+29,Camila Cabello,Familia,Bam Bam (feat. Ed Sheeran),2DB4DdfCFMw1iaR6JaR03a,0.756,0.697,8,-6.377,1,0.0401,0,0.333,0.956,94.996,206071,4
+30,GAYLE,abcdefu,abcdefu,4fouWK6XVHhzl78KzQ1UjL,0.695,0.54,4,-5.692,1,0.0493,0,0.367,0.415,121.932,168602,4
+31,The Neighbourhood,I Love You.,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,0.612,0.807,10,-2.81,1,0.0336,0.0177,0.101,0.398,124.053,240400,4
+32,Doja Cat,Planet Her,Woman,6Uj1ctrBOjOas8xZXGqKk4,0.824,0.764,5,-4.175,0,0.0854,0.00294,0.117,0.881,107.998,172627,4
+33,Justin Bieber,Justice,Ghost,6I3mqTwhRpn34SLVafSH7G,0.601,0.741,2,-5.569,1,0.0478,2.91e-05,0.415,0.441,153.96,153190,4
+34,Frank Ocean,channel ORANGE,Lost,3GZD6HmiNUhxXYf8Gch723,0.913,0.603,8,-4.892,1,0.226,0.000503,0.167,0.497,123.061,234093,4
+35,David Guetta,Crazy What Love Can Do,Crazy What Love Can Do,1WCEAGGRD066z2Q89ObXTq,0.601,0.713,4,-3.758,0,0.0449,0,0.158,0.464,122.872,169756,4
+36,Dave,PSYCHODRAMA,Location (feat. Burna Boy),3z4CGd63tpUn9a6oQSG0CI,0.812,0.496,9,-5.969,0,0.297,0,0.0955,0.55,109.979,241293,4
+37,Cat Burns,Go (Remixes),go - goddard. Remix,6RZo8T7GY9EoWZXC5i2587,0.728,0.689,6,-6.601,0,0.13,6.14e-05,0.107,0.0473,89.973,192514,4
+38,Dave,We're All Alone In This Together,Clash (feat. Stormzy),2zxEc1GCSCxbHIXTfhraRC,0.871,0.519,2,-6.549,1,0.258,8.14e-06,0.0869,0.532,140.013,251733,4
+39,Steve Lacy,Gemini Rights,Bad Habit,4k6Uh1HXdhtusDW5y8Gbvy,0.686,0.494,1,-7.093,1,0.0355,5.8e-05,0.402,0.7,168.946,232067,4
+40,George Ezra,Gold Rush Kid,Green Green Grass,4N5s8lPTsjI9EGP7K4SXzB,0.685,0.738,8,-4.413,1,0.0595,0,0.128,0.8,112.972,167614,4
+41,Beyoncé,RENAISSANCE,BREAK MY SOUL,5pyoxDZ1PX0KxBxiRVxA4U,0.693,0.887,1,-5.039,0,0.0795,2.71e-06,0.27,0.864,114.942,278282,4
+42,Chris Brown,Indigo (Extended),Under The Influence,5IgjP7X4th6nMNDh4akUHb,0.733,0.69,9,-5.529,0,0.0427,1.18e-06,0.105,0.31,116.992,184613,4
+43,Tion Wayne,IFTK,IFTK,7u3w4fQhulC1etJbdfmv3Q,0.614,0.82,6,-4.32,0,0.226,8.18e-05,0.618,0.739,146.235,190685,4
+44,D-Block Europe,Home Alone 2,Make You Smile,7au23Qf6zRs72N3RztqUQe,0.839,0.809,10,-6.509,0,0.196,0,0.0896,0.63,130.037,179348,4
+45,Lil Nas X,MONTERO,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,0.741,0.691,10,-7.395,0,0.0672,0,0.0476,0.892,150.087,212353,4
+46,Imagine Dragons,Mercury - Acts 1 & 2,Enemy (with JID) - from the series Arcane League of Legends,3CIyK1V4JEJkg02E4EJnDl,0.728,0.783,11,-4.424,0,0.266,0,0.434,0.555,77.011,173381,4
+47,Tate McRae,i used to think i could fly,she's all i wanna be,7l9IqDtVWJurTvkQHq1BGh,0.602,0.626,2,-5.323,0,0.0396,9.02e-06,0.144,0.619,160.118,207120,4
+48,Cat Burns,go,go,4VtRHZ4tBDHaWltVAytlLY,0.663,0.251,6,-9.87,0,0.0435,0,0.0932,0.528,90.272,215000,4
+49,Arctic Monkeys,AM,Do I Wanna Know?,5FVd6KXrgO9B3JPmC8OPst,0.548,0.532,5,-7.596,1,0.0323,0.000263,0.217,0.405,85.03,272394,4

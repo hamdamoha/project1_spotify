@@ -1,0 +1,101 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Lorde,Pure Heroine,Royals,2dLLR6qlu5UJ5gk0dKz0h3,0.674,0.428,7,-9.504,1,0.122,0,0.132,0.337,84.878,190185,4
+1,Robin Thicke,Blurred Lines,Blurred Lines,5PUvinSo4MNqW7vmomGRS7,0.861,0.504,7,-7.707,1,0.0489,1.78e-05,0.0783,0.881,120.0,263053,4
+2,Imagine Dragons,Night Visions,Radioactive,4G8gkOterJn0Ywt6uhqbhp,0.448,0.784,9,-3.686,1,0.0627,0.000108,0.668,0.236,136.245,186813,4
+3,Avicii,True,Wake Me Up,0nrRP2bk19rLc0orkWPQk2,0.532,0.783,2,-5.697,1,0.0523,0.0012,0.161,0.643,124.08,247427,4
+4,Bruno Mars,Unorthodox Jukebox,Locked out of Heaven,3w3y8KPTfNeOKPiqUTakBh,0.726,0.698,5,-4.165,1,0.0431,0,0.309,0.867,143.994,233478,4
+5,Macklemore,The Heist,Thrift Shop (feat. Wanz),6CjtS2JZH9RkDz5UVInsa9,0.781,0.526,6,-6.986,0,0.293,0,0.0457,0.665,94.993,235613,4
+6,Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2Foc5Q5nqNiosCNqttzHof,0.794,0.811,6,-8.966,0,0.038,1.07e-06,0.101,0.862,116.047,248413,4
+7,Tom Odell,Long Way Down (Deluxe),Another Love,3JvKfv6T31zO0ini8iNItO,0.445,0.537,4,-8.532,0,0.04,1.65e-05,0.0944,0.131,122.769,244360,4
+8,The Neighbourhood,I Love You.,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,0.612,0.807,10,-2.81,1,0.0336,0.0177,0.101,0.398,124.053,240400,4
+9,Arctic Monkeys,AM,Do I Wanna Know?,5FVd6KXrgO9B3JPmC8OPst,0.548,0.532,5,-7.596,1,0.0323,0.000263,0.217,0.405,85.03,272394,4
+10,Capital Cities,In A Tidal Wave Of Mystery (Deluxe Edition),Safe And Sound,6Z8R6UsFuGXGtiIxiD8ISb,0.655,0.819,0,-4.852,1,0.0316,0.00374,0.104,0.766,117.956,192790,5
+11,Bruno Mars,Unorthodox Jukebox,When I Was Your Man,0nJW01T7XtvILxQgC5J7Wh,0.612,0.28,0,-8.648,1,0.0434,0,0.088,0.387,72.795,213827,4
+12,Macklemore & Ryan Lewis,The Heist,Can't Hold Us (feat. Ray Dalton),3bidbhpOYeV4knp8AIu8Xn,0.641,0.922,2,-4.457,1,0.0786,0,0.0862,0.847,146.078,258343,4
+13,Kodaline,In A Perfect World (Expanded Edition),All I Want,0NlGoUyOJSuSHmngoibVAs,0.188,0.411,0,-9.733,1,0.0484,0.153,0.0843,0.159,187.376,305747,3
+14,P!nk,The Truth About Love,Just Give Me a Reason (feat. Nate Ruess),1mKXFLRA179hdOWQBwUk9e,0.778,0.547,2,-7.273,1,0.0489,0.000302,0.132,0.441,95.002,242733,4
+15,Christina Perri,A Thousand Years,A Thousand Years,6lanRgr6wXibZr8KgzXxBl,0.421,0.407,10,-7.445,1,0.0267,0.000961,0.11,0.161,139.028,285120,3
+16,Arctic Monkeys,AM,Why'd You Only Call Me When You're High?,086myS9r57YsLbJpU0TgK9,0.691,0.631,2,-6.478,1,0.0368,1.13e-05,0.104,0.8,92.004,161124,4
+17,Lil Wayne,I Am Not A Human Being II (Deluxe),Love Me,2XHzzp1j4IfTNp1FTn7YFg,0.669,0.634,11,-6.476,1,0.0327,0,0.0946,0.496,124.906,255053,4
+18,Of Monsters and Men,My Head Is An Animal,Little Talks,2ihCaVdNZmnHZWt0fvAM7B,0.457,0.757,1,-5.177,1,0.032,0,0.146,0.417,102.961,266600,4
+19,Katy Perry,PRISM,Unconditionally,009ImBOrIUlWgla8U05RAC,0.432,0.725,7,-4.862,1,0.0431,0,0.208,0.353,128.902,228879,4
+20,Demi Lovato,Demi,Heart Attack,1V6gIisPpYqgFeWbMLI0bA,0.504,0.785,8,-4.802,1,0.104,0,0.239,0.502,173.968,210840,4
+21,Bruno Mars,Unorthodox Jukebox,Treasure,55h7vJchibLdUkxdlX3fK7,0.874,0.692,5,-5.28,0,0.0431,7.24e-05,0.324,0.937,116.017,178560,4
+22,Justin Timberlake,The 20/20 Experience (Deluxe Version),Mirrors,4rHZZAmHpZrA3iH5zx8frV,0.574,0.512,5,-6.664,0,0.0503,0,0.0946,0.512,76.899,484147,4
+23,Eminem,The Marshall Mathers LP2,The Monster,48RrDBpOSSl1aLVCalGl5C,0.781,0.853,1,-3.68,0,0.0715,0,0.12,0.624,110.049,250189,4
+24,Taylor Swift,Red (Big Machine Radio Release Special),I Knew You Were Trouble.,6FB3v4YcR57y4tXFcdxI1E,0.622,0.469,3,-6.798,0,0.0363,2.25e-06,0.0335,0.679,77.019,219720,4
+25,will.i.am,#willpower,Scream & Shout,2iJuuzV8P9Yz0VSurttIV5,0.772,0.685,5,-6.849,1,0.0696,8.96e-05,0.131,0.501,130.033,283400,4
+26,Miley Cyrus,Bangerz (Deluxe Version),Wrecking Ball,2vwlzO0Qp8kfEtzTsCXfyE,0.53,0.422,5,-6.262,1,0.0342,0,0.107,0.349,119.964,221360,4
+27,Childish Gambino,Because the Internet,3005,5cc9Zbfp9u10sfJeKZ3h16,0.664,0.447,6,-7.272,0,0.289,0,0.091,0.659,83.138,234215,4
+28,J. Cole,Born Sinner (Deluxe Version),Power Trip (feat. Miguel),2uwnP6tZVVmTovzX5ELooy,0.667,0.608,1,-7.054,1,0.216,0.000198,0.426,0.475,99.992,241160,4
+29,P!nk,The Truth About Love,Try,1jF7IL57ayN4Ity3jQqGu0,0.674,0.628,2,-7.079,1,0.03,0,0.0944,0.552,103.998,247907,4
+30,Pitbull,Global Warming: Meltdown (Deluxe Version),Feel This Moment (feat. Christina Aguilera),0Hf4aIJpsN4Os2f0y0VqWl,0.673,0.758,7,-3.632,1,0.158,0,0.341,0.542,135.956,229507,4
+31,Lorde,Pure Heroine,Team,3G6hD9B2ZHOsgf4WfNu7X1,0.69,0.578,6,-7.436,1,0.0929,0,0.305,0.416,99.961,193059,4
+32,One Direction,Midnight Memories (Deluxe),Best Song Ever,5T7ZFtCcOgkpjxcuaeZbw0,0.652,0.877,1,-2.986,1,0.0465,0,0.0789,0.486,118.491,200107,4
+33,Miley Cyrus,Bangerz (Deluxe Version),We Can't Stop,2y4lAQpi5VTNLu2ldeTdUH,0.613,0.622,1,-5.794,0,0.0334,0,0.37,0.484,80.003,231240,4
+34,Zedd,Clarity,Clarity,60wwxj6Dd9NJlirf84wr2c,0.509,0.781,8,-3.48,1,0.072,0,0.0749,0.176,128.0,271427,4
+35,A$AP Rocky,LONG.LIVE.A$AP (Deluxe Version),"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",4X5f3vT8MRuXF68pfjNte5,0.853,0.693,1,-6.87,1,0.275,0,0.11,0.662,95.967,233787,4
+36,Passenger,All The Little Lights,Let Her Go,1KxwZYyzWNyZSRyErj2ojT,0.479,0.545,7,-7.346,1,0.0688,0,0.0963,0.243,74.897,252733,4
+37,Bastille,All This Bad Blood,Pompeii,4Ub8UsjWuewQrPhuepfVpd,0.679,0.715,9,-6.383,1,0.0407,0,0.271,0.571,127.435,214148,4
+38,Kanye West,Yeezus,Black Skinhead,722tgOgdIbNe3BEyLnejw4,0.766,0.809,1,-6.123,1,0.279,0,0.168,0.325,130.127,188013,4
+39,Imagine Dragons,Night Visions,Demons,3LlAyCYU26dvFZBDUIMb7a,0.505,0.71,3,-3.015,1,0.0321,0.00025,0.329,0.428,89.938,175200,4
+40,Justin Bieber,Believe (Deluxe Edition),Beauty And A Beat,190jyVPHYjAqEaOGmMzdyk,0.602,0.843,0,-4.831,1,0.0593,5.27e-05,0.0682,0.526,128.003,227987,4
+41,The Lumineers,The Lumineers,Ho Hey,0W4Kpfp1w2xkY3PrV714B7,0.685,0.466,0,-9.074,1,0.0304,2.06e-06,0.0915,0.353,79.936,163133,4
+42,AWOLNATION,Megalithic Symphony,Sail,7ueP5u2qkdZbIPN2YA6LR0,0.826,0.436,1,-9.583,1,0.0558,0.615,0.0964,0.272,119.051,259093,4
+43,Calvin Harris,18 Months,Sweet Nothing (feat. Florence Welch),24LS4lQShWyixJ0ZrJXfJ5,0.573,0.929,8,-3.942,0,0.109,0.000112,0.0567,0.582,127.934,212560,4
+44,Fall Out Boy,Save Rock And Roll,My Songs Know What You Did In The Dark (Light Em Up),2E43WFS4rRc09za2r2GmZl,0.558,0.924,9,-4.341,0,0.064,3.32e-06,0.537,0.567,151.99,186827,4
+45,Lana Del Rey,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,6PUIzlqotEmPuBfjbwYWOB,0.572,0.81,1,-5.791,0,0.0558,6.53e-06,0.13,0.11,126.052,214912,4
+46,Katy Perry,PRISM (Deluxe),Roar,6F5c58TMEs1byxUstkzVeM,0.554,0.772,7,-4.821,0,0.0418,6.6e-06,0.354,0.455,179.984,223546,4
+47,Drake,Nothing Was The Same,"Hold On, We're Going Home",2aSC2xhRxOLiiZZVjhbylH,0.777,0.414,6,-7.44,0,0.0946,2.73e-05,0.0724,0.287,100.002,227880,4
+48,Rihanna,Unapologetic (Edited Version),Stay - Album Version (Edited),789CxjEOtO76BVD1A9yJQH,0.621,0.31,9,-10.164,0,0.0283,6.12e-05,0.117,0.125,111.893,240707,4
+49,Bridgit Mendler,Hello My Name Is...,Ready or Not,5xvUgoVED1F4mBu8FL0HaW,0.715,0.872,2,-3.835,1,0.0509,3.84e-05,0.107,0.748,93.043,200947,4
+50,P!nk,The Truth About Love,True Love (feat. Lily Allen),1QNqrsNQ1JVLEwncov3lEY,0.457,0.823,9,-4.76,1,0.311,0,0.108,0.578,192.205,230733,4
+51,Selena Gomez,Stars Dance (Bonus Track Version),Come & Get It,6LoQHIo74tOzQ8EsLEkhgF,0.546,0.787,7,-4.1,0,0.0517,0.00021,0.0809,0.573,79.979,231987,4
+52,2 Chainz,B.O.A.T.S. II #METIME (Deluxe),We Own It (Fast & Furious),2OQJKTtrH482waGFmOfJni,0.563,0.902,1,-4.586,0,0.402,0,0.0524,0.559,171.999,227907,4
+53,Calvin Harris,18 Months,I Need Your Love (feat. Ellie Goulding),05SBRd4fXgn8FX7bf8BCAE,0.695,0.869,8,-5.066,1,0.0483,0,0.237,0.58,124.989,234507,4
+54,Taylor Swift,Red (Big Machine Radio Release Special),22,6ce41JVa6KFaryfmC2bu2W,0.661,0.729,7,-6.561,1,0.0376,0.0013,0.0477,0.668,103.987,232120,4
+55,Paramore,Paramore (Deluxe Edition),Still into You,3SXXFIZel1VQQ4ENiqozxi,0.602,0.923,5,-3.763,1,0.044,0,0.0561,0.765,136.01,216013,4
+56,Britney Spears,Britney Jean (Deluxe Version),Work Bitch,3KliPMvk1EvFZu9cvkj8p1,0.629,0.824,9,-6.53,1,0.159,0.000628,0.0651,0.852,128.01,247960,4
+57,Icona Pop,THIS IS... ICONA POP,I Love It (feat. Charli XCX),6HZ9VeI5IRFCNQLXhpF4bq,0.711,0.906,8,-2.671,1,0.0284,1.64e-05,0.153,0.824,125.916,157153,4
+58,Daft Punk,Random Access Memories,Lose Yourself to Dance (feat. Pharrell Williams),5CMjjywI0eZMixPeqNd75R,0.832,0.659,10,-7.828,0,0.057,0.00114,0.0753,0.674,100.163,353893,4
+59,Avicii,I Could Be The One [Avicii vs Nicky Romero],I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,1sh6lL6cmlcwhqZKGiKBua,0.509,0.79,6,-3.782,0,0.0374,6.67e-05,0.316,0.638,127.946,208316,4
+60,Michael Bublé,To Be Loved,It's a Beautiful Day,0mvkwaZMP2gAy2ApQLtZRv,0.532,0.795,1,-3.979,1,0.0358,0,0.295,0.78,143.837,199267,4
+61,Avril Lavigne,Avril Lavigne (Expanded Edition),Here's to Never Growing Up,0qwcGscxUHGZTgq0zcaqk1,0.482,0.873,0,-3.145,1,0.0853,0,0.409,0.737,165.084,214320,4
+62,Ellie Goulding,Halcyon Nights,Burn,5lF0pHbsJ0QqyIrLweHJPW,0.555,0.772,1,-5.007,1,0.0523,0,0.105,0.346,86.921,231213,4
+63,Mumford & Sons,Babel (Deluxe Version),I Will Wait,1fXiYSWmkKJfRKMegCkI11,0.478,0.758,1,-5.4,1,0.0331,0.00717,0.312,0.452,131.109,276720,4
+64,Kodaline,In A Perfect World (Expanded Edition),High Hopes,6KkyuDhrEhR5nJVKtv9mCf,0.488,0.487,4,-6.371,1,0.0305,0,0.193,0.219,77.278,230267,4
+65,Ariana Grande,Yours Truly,The Way,0S4RKPbRDA72tvKwVdXQqe,0.645,0.878,5,-3.208,0,0.113,0,0.076,0.862,82.324,227027,4
+66,Taylor Swift,Red (Big Machine Radio Release Special),Everything Has Changed,3Z1kZKYfRC8iRXnYeC5sCJ,0.624,0.458,6,-6.755,1,0.0287,3.89e-06,0.311,0.436,80.016,245413,4
+67,will.i.am,#willpower (Deluxe),#thatPOWER,01TuObJVd7owWchVRuQbQw,0.797,0.608,6,-6.096,0,0.0584,7.66e-05,0.0748,0.402,127.999,279507,4
+68,Phillip Phillips,The World From The Side Of The Moon,Home,1EAgPzRbK9YmdOESSMUm6P,0.606,0.826,0,-6.04,1,0.0307,1.56e-05,0.117,0.322,121.04,210173,4
+69,Armin van Buuren,Intense,This Is What It Feels Like,5GjnIpUlLGEIYk052ISOw9,0.551,0.833,8,-5.217,1,0.03,2.77e-06,0.0632,0.145,129.885,204360,5
+70,John Newman,Tribute,Love Me Again,5VSCgNlSmTV2Yq5lB40Eaw,0.495,0.894,2,-4.814,0,0.0441,0.000596,0.103,0.213,126.03,239894,4
+71,One Direction,One Way Or Another (Teenage Kicks),One Way or Another (Teenage Kicks),3jZomvOBa5qfTo5HkqI1p5,0.489,0.867,4,-3.121,0,0.071,0,0.586,0.409,162.131,157293,4
+72,Calvin Harris,18 Months,Thinking About You (feat. Ayah Marar),1KtD0xaLAikgIt5tPbteZQ,0.725,0.874,0,-3.715,0,0.0396,0.000412,0.0958,0.748,127.985,247933,4
+73,Paramore,Paramore (Deluxe Edition),Ain't It Fun,3yrvQHw6pQemsrCQEpMnKv,0.61,0.893,9,-3.681,1,0.0921,4.41e-05,0.021,0.673,104.031,296520,4
+74,Sebastian Ingrosso,Reload (Vocal Version / Radio Edit),Reload - Radio Edit,5jyUBKpmaH670zrXrE0wmO,0.485,0.724,9,-4.633,0,0.0521,0,0.0631,0.433,128.045,221273,4
+75,Drake,Nothing Was The Same,Started From the Bottom,5DI9jxTHrEiFAhStG7VA8E,0.793,0.524,8,-7.827,1,0.156,0,0.156,0.579,86.325,174133,4
+76,Eminem,The Marshall Mathers LP2 (Deluxe),Berzerk,6Xk7PnitV9jCRorWt2LiVZ,0.739,0.872,11,-4.059,0,0.333,0,0.26,0.684,95.084,238746,4
+77,Pitbull,Global Warming: Meltdown (Deluxe Version),Don't Stop the Party (feat. TJR),3Tu7uWBecS6GsLsL8UONKn,0.722,0.958,4,-3.617,1,0.0912,0,0.375,0.952,127.008,206120,4
+78,Justin Timberlake,The 20/20 Experience (Deluxe Version),Suit & Tie (feat. Jay-Z),6vt0I1cw1YmAIKDJvHVIM5,0.795,0.596,11,-3.799,0,0.219,0,0.164,0.357,101.985,326280,4
+79,Jason Derulo,Talk Dirty,Talk Dirty (feat. 2 Chainz),6g6A7qNhTfUgOSH7ROOxTD,0.76,0.652,6,-7.321,1,0.232,0,0.307,0.759,100.315,177685,4
+80,Flo Rida,Wild Ones,I Cry,4bZd0nRuX8HyjeXAUBczvm,0.693,0.822,4,-5.441,0,0.0439,1.79e-06,0.315,0.763,126.035,223800,4
+81,Ciara,Ciara,Body Party,0rFZaQ4crlGAzuCjWCQ2xu,0.577,0.576,2,-6.299,1,0.0563,0,0.602,0.12,133.973,234040,4
+82,Ylvis,The Fox (What Does the Fox Say?),The Fox (What Does the Fox Say?),5HOpkTTVcmZHnthgyxrIL8,0.703,0.867,6,-4.292,1,0.0453,0,0.119,0.546,128.008,213708,4
+83,The 1975,The 1975,Chocolate,44Ljlpy44mHvLJxcYUvTK0,0.591,0.94,11,-4.341,1,0.0522,0,0.383,0.676,100.043,224640,4
+84,Macklemore & Ryan Lewis,The Heist,Same Love (feat. Mary Lambert),01uqI4H13Gsd8Lyl1EYd8H,0.688,0.473,8,-9.059,1,0.167,4.46e-05,0.104,0.299,84.958,318525,4
+85,JAY-Z,Magna Carta... Holy Grail,Holy Grail,1q9bLSeIlGf2xBvbOkp2Wr,0.676,0.534,2,-6.901,0,0.0831,8.59e-06,0.256,0.156,145.082,338413,4
+86,Maroon 5,Overexposed (Deluxe),Daylight,6TwfdLbaxTKzQi3AgsZNzx,0.657,0.679,2,-5.511,1,0.0269,0,0.211,0.331,120.007,225307,4
+87,Wale,The Gifted,Bad (feat. Rihanna) - Remix,5yhKaacMZGRo4s6evJx9vk,0.807,0.702,6,-6.594,0,0.0748,0,0.111,0.447,114.038,238827,4
+88,Bastille,All This Bad Blood,Of The Night,7BNDyzwDboNRR2wmd7GSew,0.67,0.829,5,-7.2,0,0.0427,0.000225,0.089,0.349,125.01,214206,4
+89,Chris Brown,X (Expanded Edition),Fine China,0yz2J4wsXFCjMjpJ6A74yV,0.654,0.731,10,-4.767,0,0.0568,0,0.122,0.59,104.002,213200,4
+90,Calvin Harris,18 Months,Drinking from the Bottle (feat. Tinie Tempah),1oHxIPqJyvAYHy0PVrDU98,0.665,0.886,9,-4.175,0,0.0514,6.24e-05,0.0525,0.53,128.062,240347,4
+91,Birdy,Fire Within,Wings,1D4XFKolp63mNqqMXJJL1V,0.474,0.707,7,-4.534,1,0.0253,0,0.162,0.224,83.235,252107,4
+92,Martin Garrix,Animals,Animals - Radio Edit,65G7XDGcybJiGywSCXJiL5,0.593,0.914,1,-5.351,1,0.0363,0.445,0.0714,0.0381,128.015,176120,4
+93,Jason Derulo,Talk Dirty,The Other Side,5FljCWR0cys07PQ9277GTz,0.561,0.836,9,-3.939,1,0.1,0,0.136,0.517,127.923,226987,4
+94,Katy Perry,PRISM (Deluxe),This Is How We Do,5vL0yvddknhGj7IrBc6UTj,0.69,0.636,9,-6.028,0,0.0457,0,0.147,0.8,96.0,204285,4
+95,David Guetta,Nothing but the Beat 2.0,Play Hard (feat. Ne-Yo & Akon),2QD4C6RRHgRNRAyrfnoeAo,0.691,0.921,8,-1.702,0,0.0535,0,0.331,0.802,130.072,201000,4
+96,Olly Murs,Right Place Right Time (Expanded Edition),Dear Darlin',0s0JMUkb2WCxIJsRB3G7Hd,0.512,0.828,11,-4.672,0,0.0454,8.73e-06,0.119,0.34,124.021,206373,4
+97,Christina Perri,human,human,1zVhMuH7agsRe6XkljIY4U,0.439,0.489,8,-6.286,1,0.0368,0.000643,0.114,0.253,143.808,250707,4
+98,Duke Dumont,Need U (100%) (feat. A*M*E) [Remixes],Need U (100%) (feat. A*M*E) - Radio Edit,5zdkUzguZYAfBH9fnWn3Zl,0.67,0.848,0,-5.103,0,0.0538,0.00168,0.385,0.457,124.031,174122,4
+99,Florida Georgia Line,Here's To The Good Times,Cruise,5BhsEd82G0Mnim0IUH6xkT,0.457,0.948,10,-3.364,1,0.0354,0,0.0536,0.878,148.0,208960,4
