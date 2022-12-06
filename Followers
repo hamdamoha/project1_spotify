@@ -1,2 +1,0 @@
-import pandas as pd
-Track22_df =pd.read_csv('2022Year_final.csv')
