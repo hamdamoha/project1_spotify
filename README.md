@@ -48,4 +48,4 @@ Below there are two examples of visulisations which have been created using the 
 <img src="https://github.com/hamdamoha/project1_spotify/blob/main/Readme%20images/Gen_time.png" width="450">  <img src="https://github.com/hamdamoha/project1_spotify/blob/main/Readme%20images/Follow_scat1.png" width="375">
 
 ## <a id="reports-header"></a>Findings Reports and Presentation
-The findings were used to create a presentation which can be accessed here: [Findings Presentation] ( https://github.com/hamdamoha/project1_spotify/blob/main/The%20Road%20to%20Spotify%20Wrapped%202023%20-%20Final.pptx)
+The findings were used to create a presentation which can be accessed here: [Findings Presentation](https://github.com/hamdamoha/project1_spotify/blob/main/The%20Road%20to%20Spotify%20Wrapped%202023%20-%20Final.pptx)
