@@ -41,3 +41,6 @@ Our client question was **"What features would a song need to increase its chanc
 * Hypothesis 4: The number of followers an artist has an impact on their position in the top 50 (2022 only) – Jade 
 
 For each hypotheses we created a number of visualisations and where appropriate have begun to explore some basic stastical measures. 
+
+## <a id="example-header"></a>Example Plots
+
