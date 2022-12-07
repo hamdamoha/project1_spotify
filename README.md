@@ -45,4 +45,4 @@ For each hypotheses we created a number of visualisations and where appropriate 
 ## <a id="example-header"></a>Example Plots
 Below there are two examples of visulisations which have been created using the final data set and Jupyter Notebooks files (which have been inlcuded in the repo)
 
-<img src="https://github.com/hamdamoha/project1_spotify/blob/main/Readme%20images/Gen_time.png" width="400">  <img src="https://github.com/hamdamoha/project1_spotify/blob/main/Readme%20images/Follow_scat1.png" width="375">
+<img src="https://github.com/hamdamoha/project1_spotify/blob/main/Readme%20images/Gen_time.png" width="450">  <img src="https://github.com/hamdamoha/project1_spotify/blob/main/Readme%20images/Follow_scat1.png" width="375">
