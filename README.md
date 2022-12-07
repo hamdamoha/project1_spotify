@@ -9,11 +9,6 @@ This is a team-based project that explored the key characteristics of successful
 * [Project Outline](#project-header)
 * [Example Plots](#example-header)
 * [Findings Reports and Presentation](#reports-header)
-* [Dependencies and Setup Required](#dependencies-header)
-* [How to View / Run the code](#how-header)
-* [Jupyter Notebooks File Guide](#which-header)
-* [Repository Structure](#structure-header)
-* [Team](#team-header)
 
 ## <a id="dataset-header"></a>Dataset
 We used data we extracted from Spotify. Spotify allows you to create a developer account and then offers various end points that you can use to extract information.  
