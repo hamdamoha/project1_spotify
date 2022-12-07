@@ -43,4 +43,6 @@ Our client question was **"What features would a song need to increase its chanc
 For each hypotheses we created a number of visualisations and where appropriate have begun to explore some basic stastical measures. 
 
 ## <a id="example-header"></a>Example Plots
+Below there are two examples of visulisations which have been created using the final data set and Jupyter Notebooks files (which have been inlcuded in the repo)
 
+<img src="https://github.com/hamdamoha/project1_spotify/blob/main/Readme%20images/Gen_time.png" width="200">  <img src="https://github.com/hamdamoha/project1_spotify/blob/main/Readme%20images/Follow_scat1.png" width="200">
