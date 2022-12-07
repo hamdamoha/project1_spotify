@@ -22,7 +22,7 @@ Example playlist: https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY?si=f2
 
 The data set was created using these playlists from 2012 – 2022 to create our dataset, which gave us data on 993 songs. A csv file was created for each year. These were merged into a final data frame which can be found in the in the main repository. 
 
-*[Finalcsv](#Final_Data_2012_2022.csv) 
+* [Final Data Set](#Final_Data_2012_2022.csv) 
 
 
 
